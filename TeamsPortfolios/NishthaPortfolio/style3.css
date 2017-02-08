@@ -1,0 +1,43 @@
+#hi{
+	color: red;
+	font-size:75px;
+	text-align: center;
+}
+#pic{
+	border solid:5px blue;
+	margin-left: 350px;
+}
+#ab{
+	color: green;
+	font-size: 40px;
+	margin-top: 900px;
+	text-align: center;
+
+
+}
+#tab{
+	background-color: pink;
+	border: 5px;
+	text-align: center;
+	margin-left: 500px;
+
+}
+
+#para{
+	font-size: 30px;
+	color: blue;
+	text-align:center;
+
+}
+
+#back{
+	font-size: 30px;
+	margin-left: 300px;
+	margin-bottom:200px;
+}
+
+#lis{
+	font-size: 40px;
+	color: green;
+	
+}

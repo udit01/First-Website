@@ -1,0 +1,28 @@
+#tab{
+	color: green;
+	font-size: 20;
+	background-color: pink;
+	margin-left: 500px;
+
+
+
+}
+#para{
+	color: red;
+	font-size: 35;
+	text-align: center;
+	
+}
+#im{
+	margin-left: 100px;
+	border:solid 5px black;
+}
+#im2{
+	margin left: 150px;
+	border: solid 5px blue;
+	padding-left: 200px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 200px;
+
+}
